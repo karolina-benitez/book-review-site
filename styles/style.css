@@ -1,0 +1,21 @@
+.header, footer{
+    border: .5px solid black;
+    background-color: #798572dc;
+}
+.main-content{
+    background-color: #a7b69ddc;
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.book-title{
+    font-style: italic;
+}
+/* not working */
+nav a:hover {
+    color: white;
+    background-color: #709958dc;
+}
+li{
+    list-style: none;
+}
